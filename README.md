@@ -1,1 +1,1 @@
-# RandomSentencesGenerator
+# RandomSentencesGenerator - Game
